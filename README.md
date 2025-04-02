@@ -67,7 +67,7 @@ I'm always open to networking and collaborating on interesting projects! You can
 Check out my GitHub profile to see my activity and contributions:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Medhilesh&show_icons=true&theme=tokyonight" width="50%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sahasra patel&show_icons=true&theme=tokyonight" width="50%" />
   <br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Roh1121&theme=dark&hide_border=false" />
 </p>

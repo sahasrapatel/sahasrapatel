@@ -1,18 +1,16 @@
-# Hi 👋, I'm Medhilesh Goud Anthati
+# Hi 👋, I'm Gattu Sahasra Patel.
 ### 🚀 A Passionate Full-Stack Developer & Problem Solver
-
-![Profile Banner](https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif)
 
 ---
 
 ### 💡 About Me:
 I am a dedicated Full-Stack Developer with a passion for building scalable, efficient, and user-friendly applications. I’m currently learning **Java** and **Web Development (MERN Stack)** to expand my technical horizons.
 
-- 🔭 **Current Project**: [Event Booking System](https://github.com/Medhilesh/Event_booking.git) (MERN Stack)
+- 🔭 **Current Project**: [Event Booking System](https://github.com/sahasrapatel/Event_booking.git) (MERN Stack)
 - 🌱 **Learning**: **Java** and **Web Development** using **MERN Stack**
 - 💬 **Interested in**: Contributing to open-source, tackling real-world problems with code, and growing my knowledge in Data Structures & Algorithms
-- 👨‍💻 **Explore my Projects**: [My GitHub](https://github.com/Medhilesh?tab=repositories)
-- 📫 **Contact Me**: [anthatimedhilesh@gmail.com](mailto:anthatimedhilesh@gmail.com)
+- 👨‍💻 **Explore my Projects**: [My GitHub](https://github.com/sahasrapatel?tab=repositories)
+- 📫 **Contact Me**: [sahasrapatel.gattu@gmail.com](mailto:sahasrapatel.gattu@gmail.com)
 
 ---
 
@@ -49,16 +47,16 @@ I'm always open to networking and collaborating on interesting projects! You can
   <a href="https://linkedin.com/in/medhilesh-anthati" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://www.codechef.com/users/medhilesh" target="_blank">
+  <a href="https://www.codechef.com/users/sahasrapatel" target="_blank">
     <img src="https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
   </a>
-  <a href="https://www.hackerrank.com/medhilesh" target="_blank">
+  <a href="https://www.hackerrank.com/sahasra patel" target="_blank">
     <img src="https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
   </a>
-  <a href="https://www.leetcode.com/medhilesh" target="_blank">
+  <a href="https://www.leetcode.com/sahasra07" target="_blank">
     <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
   </a>
-  <a href="https://www.hackerearth.com/@medhilesh-anthati" target="_blank">
+  <a href="https://www.hackerearth.com/@sahasrapatel_ga1" target="_blank">
     <img src="https://img.shields.io/badge/-HackerEarth-323754?style=flat-square&logo=hackerearth&logoColor=white" alt="HackerEarth" />
   </a>
 </p>
